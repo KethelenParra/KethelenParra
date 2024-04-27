@@ -7,7 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KethelenParra&theme=algolia)
 
 <br/>
+
 ## Tecnologia que ultilizo
+
 <div><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
