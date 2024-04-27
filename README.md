@@ -1,8 +1,11 @@
 ### Hi, Eu sou a Kethelen Parra.😎
 - 💻 Cursando Sistemas de Informação na UNITINS.
 - 🚀 Em busca de novos aprendizados.
-  
-![KethelenParraGithub Stats](https://github-readme-stats.vercel.app/api?username=KethelenParra&show_icons=true&theme=radical)
+- <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1><br/>
+
+![Kethelen Parra GitHub Stats](https://github-readme-stats.vercel.app/api?username=KethelenParra&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KethelenParra&theme=algolia)
+
 <br/>
 ## Tecnologia que ultilizo
 <div><br/>
