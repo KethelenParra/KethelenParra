@@ -2,7 +2,8 @@
 
 - <p1>💻 Cursando Sistemas de Informação na UNITINS.</p1><br/>
 - <p1>🚀 Em busca de novos aprendizados.</p1><br/>
-- <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1><br/>
+- <p1>📔Estudando e aprimorando minhas habilidades diariamente.</p1><br/>
+- <p1>📫 Contate-me: kethelenvictoria2016@gmail.com</p1><br/>
 
 ![Kethelen Parra GitHub Stats](https://github-readme-stats.vercel.app/api?username=KethelenParra&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KethelenParra&theme=algolia)
