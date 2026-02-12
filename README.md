@@ -6,7 +6,7 @@
 - <p1>📫 Contate-me: kethelenvictoria2016@gmail.com</p1><br/>
 
 ![Kethelen Parra GitHub Stats](https://github-readme-stats.vercel.app/api?username=KethelenParra&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KethelenParra&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KethelenParra&theme=algolia)
 
 <br/>
 
@@ -19,5 +19,7 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=1572B6"/>
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart&logoColor=1572B6"/>
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter&logoColor=1572B6"/>
   
 </div>
