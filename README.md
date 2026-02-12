@@ -15,8 +15,7 @@
 <div>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=1572B6"/>
   <img align="center" alt="Quarkus" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=2D79C7"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=1572B6"/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=1572B6"/>
   <img align="center" alt="Dart" src="https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart&logoColor=1572B6"/>
